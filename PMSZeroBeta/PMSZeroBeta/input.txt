@@ -1,0 +1,6 @@
+var abcdefghijklmnopqrstuvwxyz,y;
+begin/*test
+test
+test
+*/y:=3;x:= y+56;
+end.

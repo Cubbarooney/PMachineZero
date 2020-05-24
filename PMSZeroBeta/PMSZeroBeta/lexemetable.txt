@@ -1,0 +1,2 @@
+Lexeme      Token Type
+var         29

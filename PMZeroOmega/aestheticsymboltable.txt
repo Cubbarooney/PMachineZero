@@ -1,0 +1,45 @@
+
+Symbol #0
+==================
+Kind:  CONSTANT
+Name: beginningX 
+Value: 3
+L:     0
+M:     0
+==================
+
+Symbol #1
+==================
+Kind:  VARIABLE
+Name: facRes 
+Value: 0
+L:     0
+M:     4
+==================
+
+Symbol #2
+==================
+Kind:  VARIABLE
+Name: facParam 
+Value: 0
+L:     0
+M:     5
+==================
+
+Symbol #3
+==================
+Kind:  PROCEDURE
+Name: Factorial 
+Value: 0
+L:     0
+M:     1
+==================
+
+Symbol #4
+==================
+Kind:  VARIABLE
+Name: myFacParam 
+Value: 0
+L:     1
+M:     4
+==================

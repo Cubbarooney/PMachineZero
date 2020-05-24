@@ -1,0 +1,7 @@
+Lexeme      Token Type
+var         29
+x           2
+,           17
+y           2
+;           18
+begin       21
